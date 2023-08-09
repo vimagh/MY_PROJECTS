@@ -2,7 +2,7 @@
 
 
 Find here a few of the projects i have done Using 
--Excel, 
+---Excel, 
 -PowerBI, 
 -Python and 
 -PostgreSQL. 
